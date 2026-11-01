@@ -1,0 +1,6 @@
+gnani-vachana
+pandas
+numpy
+google-genai
+scikit-learn
+python-dotenv
