@@ -1,0 +1,15 @@
+Hello! I am ZentroMart's AI assistant (एआई असिस्टेंट), here to help you with your order and our policies.
+
+Regarding your query about damaged electronics, I am sorry (apologies / maaf kijiye) to hear that you received a damaged item. 
+
+Here are the key details of our policy:
+1. **Reporting Window:** You must report any damaged, defective, wrong, or missing item within **48 hours of delivery**, along with photos of both the item and the packaging.
+2. **Resolution & Fees:** After verification, you will receive a free replacement or a full refund (including delivery fees). There is **no reverse pickup fee** applied for damaged or defective items.
+3. **Refund Timelines:** Once the item goes through quality check (QC / गुणवत्ता जाँच) at our warehouse, refunds are processed as follows:
+   - Wallet / ZentroPay / Store Credit: **instant (within 2 hours / तुरंत / 2 ghante)**
+   - UPI: **1 to 3 business days**
+   - Net Banking: **3 to 5 business days**
+   - Credit / Debit Card: **5 to 7 business days**
+   - COD Refunds: **3 to 5 business days** (via UPI or bank transfer link)
+
+To assist you further with your order, could you please provide the last 4 digits of your registered (पंजीकृत / रजिस्टर्ड) phone number or your 6-digit delivery pincode for verification?

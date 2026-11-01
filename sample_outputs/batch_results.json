@@ -1,0 +1,71 @@
+[
+  {
+    "audio_file": "01_turn1_order_help.wav",
+    "transcript": "hello i need help with my order eight nine seven eight two eight three seven what is your return policy for damaged electronics",
+    "reply": "Hello! I am ZentroMart's AI assistant (\u090f\u0906\u0908 \u0905\u0938\u093f\u0938\u094d\u091f\u0947\u0902\u091f), here to help you with your order and our policies.\n\nRegarding your query about damaged electronics, I am sorry (apologies / maaf kijiye) to hear that you received a damaged item. \n\nHere are the key details of our policy:\n1. **Reporting Window:** You must report any damaged, defective, wrong, or missing item within **48 hours of delivery**, along with photos of both the item and the packaging.\n2. **Resolution & Fees:** After verification, you will receive a free replacement or a full refund (including delivery fees). There is **no reverse pickup fee** applied for damaged or defective items.\n3. **Refund Timelines:** Once the item goes through quality check (QC / \u0917\u0941\u0923\u0935\u0924\u094d\u0924\u093e \u091c\u093e\u0901\u091a) at our warehouse, refunds are processed as follows:\n   - Wallet / ZentroPay / Store Credit: **instant (within 2 hours / \u0924\u0941\u0930\u0902\u0924 / 2 ghante)**\n   - UPI: **1 to 3 business days**\n   - Net Banking: **3 to 5 business days**\n   - Credit / Debit Card: **5 to 7 business days**\n   - COD Refunds: **3 to 5 business days** (via UPI or bank transfer link)\n\nTo assist you further with your order, could you please provide the last 4 digits of your registered (\u092a\u0902\u091c\u0940\u0915\u0943\u0924 / \u0930\u091c\u093f\u0938\u094d\u091f\u0930\u094d\u0921) phone number or your 6-digit delivery pincode for verification?",
+    "output_audio": "01_turn1_order_help_reply.wav",
+    "retrieved_sections": [
+      "STY-1",
+      "DWM-3",
+      "DWM-2",
+      "DWM-1",
+      "DWM-4",
+      "DWM-5",
+      "RET-5",
+      "RET-6",
+      "RET-3",
+      "TRK-2",
+      "ESC-2",
+      "ESC-3",
+      "RET-4"
+    ]
+  },
+  {
+    "audio_file": "02_turn2_verify_id.wav",
+    "transcript": "the last four digits of my registered phone number are four five three three",
+    "reply": "I am sorry (apologies / maaf kijiye) for the trouble with the damaged item in your order **89782837**, Kabir. \n\nSince this includes a high-value item exceeding \u20b910,000, our policy requires claims for items worth more than \u20b910,000 to be handled by the Priority Resolution team. I cannot approve or resolve this claim directly. \n\nI have successfully created a **ticket (\u091f\u093f\u0915\u091f)** (`TKT96b9559781a64fc8bb1643923167e174`) for you, and we will **connect** you with a **human colleague / Priority Resolution team (\u0938\u0939\u092f\u094b\u0917\u0940)** to assist you further.",
+    "output_audio": "02_turn2_verify_id_reply.wav",
+    "retrieved_sections": [
+      "products.csv:DGT-0070",
+      "products.csv:DGT-0069",
+      "DWM-2",
+      "REF-2",
+      "DWM-1",
+      "DWM-4",
+      "RET-6",
+      "DWM-3",
+      "RET-7",
+      "REF-1",
+      "REF-3",
+      "PLS-2",
+      "RET-5",
+      "IDV-2",
+      "ESC-1",
+      "ESC-4"
+    ]
+  },
+  {
+    "audio_file": "03_turn3_escalate_tv.wav",
+    "transcript": "my zentro vista forty three inch four k smart tv arrived damaged can you approve my replacement right now",
+    "reply": "I am sorry (apologies / maaf kijiye) to hear that your Zentro Vista 43-inch 4K Smart TV arrived damaged. \n\nBecause this item is valued at more than \u20b910,000, our policy requires high-value damaged or defective claims to be handled by our Priority Resolution team. I cannot approve or resolve this replacement directly. \n\nI have created a **ticket (\u091f\u093f\u0915\u091f)** for your request (`TKT96b9559781a64fc8bb1643923167e174`), and I will **connect** you with a **human colleague / Priority Resolution team (\u0938\u0939\u092f\u094b\u0917\u0940)** to assist you with the replacement process.",
+    "output_audio": "03_turn3_escalate_tv_reply.wav",
+    "retrieved_sections": [
+      "products.csv:DGT-0070",
+      "products.csv:DGT-0069",
+      "products.csv:ELE-0021",
+      "products.csv:ELE-0020",
+      "DWM-3",
+      "DWM-2",
+      "DWM-1",
+      "REF-2",
+      "DWM-4",
+      "RET-6",
+      "RET-7",
+      "WAR-2",
+      "REF-1",
+      "WAR-1",
+      "RET-5",
+      "ESC-1"
+    ]
+  }
+]
